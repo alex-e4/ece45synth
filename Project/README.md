@@ -1,4 +1,4 @@
-# ECE45 - Final Project Alex Lopez A18094033
+# ECE45 - Final Project Alex L
 
 
 ![GUI](images/gui.png)
@@ -8,8 +8,8 @@ This synthesizer can generate and record waveforms using the computer's micropho
 There are a few options to choose from when generating a waveform. A two-channel interface lets the user combine generated waveforms and visualize them before they add it to their output. The user can select the frequency the generated waveforms have. In addition, a convolution button has been added that allows users to convolve waveforms with one another. If at any moment the user wants to restart, they can clear the output using the 'clear output' button. Dynamic zoom has been added to the output as well.
 
 **To see a detailed demonstration of how the project works, check out the video down below**
+https://drive.google.com/file/d/12h5dadfCiaJ_CajQov-vECa9uSteeaE5/view?usp=sharing 
 
-https://drive.google.com/file/d/12h5dadfCiaJ_CajQov-vECa9uSteeaE5/view?usp=sharing
 ## Citations and how to use
 ![imports](images/imports.png)
 
